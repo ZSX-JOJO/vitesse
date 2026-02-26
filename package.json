@@ -1,7 +1,7 @@
 {
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@10.7.0",
+  "packageManager": "pnpm@10.30.2",
   "scripts": {
     "build": "vite-ssg build",
     "dev": "vite --port 3333 --open",
@@ -56,7 +56,6 @@
     "unplugin-vue-components": "catalog:build",
     "unplugin-vue-macros": "catalog:build",
     "unplugin-vue-markdown": "catalog:build",
-    "unplugin-vue-router": "catalog:build",
     "vite": "catalog:build",
     "vite-bundle-visualizer": "catalog:build",
     "vite-plugin-inspect": "catalog:build",
